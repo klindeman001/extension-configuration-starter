@@ -1,5 +1,5 @@
 {
-  "name": "NAMESPACE-extensions",
+  "name": "klindeman-extensions",
   "fieldInteractions": {
     "Candidate": [
       "./dist/field-interactions/candidate/**"
